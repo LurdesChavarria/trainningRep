@@ -5,12 +5,20 @@
 		<name>CustomField</name>
 	</types>
 	<types>
+		<members>Lead_Record_Page</members>
+		<name>FlexiPage</name>
+	</types>
+	<types>
 		<members>Opportunity-Opportunity Layout</members>
 		<name>Layout</name>
 	</types>
 	<types>
 		<members>*</members>
 		<name>LightningComponentBundle</name>
+	</types>
+	<types>
+		<members>Admin</members>
+		<name>Profile</name>
 	</types>
 	<version>51.0</version>
 </Package>
