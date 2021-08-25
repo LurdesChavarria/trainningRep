@@ -14,7 +14,7 @@ export default class FirstLWC extends LightningElement {
     handleSuccess(event){
         const toastEvent = new ShowToastEvent({
             title: "Lead creado wiii",
-            message: "Excelentetete",
+            message: "Excelenteeeee",
             variant: "success"
         });
         this.dispatchEvent(toastEvent);
