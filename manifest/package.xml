@@ -8,5 +8,9 @@
 		<members>Opportunity-Opportunity Layout</members>
 		<name>Layout</name>
 	</types>
+	<types>
+		<members>*</members>
+		<name>LightningComponentBundle</name>
+	</types>
 	<version>51.0</version>
 </Package>
